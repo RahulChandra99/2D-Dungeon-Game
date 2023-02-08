@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\_MyFolders\Game Dev\CPP\GithubProjects\RPG Game\RPG Game\main.cpp(8,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  RPG Game.vcxproj -> C:\_MyFolders\Game Dev\CPP\GithubProjects\RPG Game\Debug\RPG Game.exe
